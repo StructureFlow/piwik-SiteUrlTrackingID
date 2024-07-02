@@ -1,10 +1,10 @@
 {
 	"name": "SiteUrlTrackingID",
 	"description": "Enables to use any of the site URLs of a website as the tracking ID in addition to the numeric site ID.",
-	"version": "4.0.4",
+	"version": "5.0.0",
 	"theme": false,
 	"require": {
-		"piwik": ">=4.0.0-b1,<5.0.0-b1",
+		"piwik": ">=5.0.0-b1,<6.0.0-b1",
 		"php": ">=5.4.0"
 	},
 	"authors": [
@@ -17,6 +17,11 @@
 			"name": "Josh Brule",
 			"email": "",
 			"homepage": "https:\/\/github.com\/jbrule"
+		},
+		{
+			"name": "Richard Lavey",
+			"email": "",
+			"homepage": "https:\/\/github.com\/StructureFlow"
 		}
 	],
 	"support": {
